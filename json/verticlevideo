@@ -1984,7 +1984,7 @@
         },
         {
             "title": "Feature Videos",
-            "module": "feature-videos",
+            "module": "video-series",
             "items": [
                 {
                     "title": "Faith Jessie video",
