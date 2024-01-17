@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+            <certificates src="user" />
+        </trust-anchors>
+    </base-config>
+    <!-- These should be removed before release -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">misc.pagesuite.com</domain>
+        <domain includeSubdomains="true">origin.misc.pagesuite.com</domain>
+        <domain includeSubdomains="true">edition.pagesuite-professional.co.uk</domain>
+        <domain includeSubdomains="true">pages-mobile.pagesuite.com</domain>
+        <domain includeSubdomains="true">psp3.pagesuite.com</domain>
+        <domain includeSubdomains="true">search.pagesuite-professional.co.uk</domain>
+        <domain includeSubdomains="true">commondatastorage.googleapis.com</domain>
+    </domain-config>
+</network-security-config>
