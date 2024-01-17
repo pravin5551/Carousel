@@ -2034,7 +2034,7 @@
         },
         {
             "title": "Feature Videos",
-            "module": "video-series",
+            "module": "vertical-video-module",
             "items": [
                 {
                     "title": "Faith Jessie video",
