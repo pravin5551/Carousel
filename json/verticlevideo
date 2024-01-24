@@ -2049,6 +2049,7 @@
                         "caption": "Faith Jessie "
                     },
                     "image": {
+                        "animation": "https://assets.projects.newsday.com/animation-service/v1/1679667168/animation.mp4"
                         "type": "image",
                         "image_path_large": "https://cdn-stage.newsday.com/ace/c:NjgyZGJmY2ItMjI5OC00:YmZlY2Vi/vertical/1170",
                         "image_path_list": "https://cdn-stage.newsday.com/ace/c:NjgyZGJmY2ItMjI5OC00:YmZlY2Vi/landscape/456",
@@ -2487,6 +2488,7 @@
                         "caption": "Cecilia Dowd"
                     },
                     "image": {
+                        "animation": "https://assets.projects.newsday.com/animation-service/v1/1679667168/animation.mp4"
                         "type": "image",
                         "image_path_large": "https://cdn-stage.newsday.com/ace/c:MDM0NmFiNzAtODA3NS00:NTc3YjE0/vertical/1170",
                         "image_path_list": "https://cdn-stage.newsday.com/ace/c:MDM0NmFiNzAtODA3NS00:NTc3YjE0/landscape/456",
@@ -2913,6 +2915,7 @@
                         "caption": "Faith Jessie "
                     },
                     "image": {
+                        "animation": "https://assets.projects.newsday.com/animation-service/v1/1679667168/animation.mp4"
                         "type": "image",
                         "image_path_large": "https://cdn-stage.newsday.com/ace/c:NjgyZGJmY2ItMjI5OC00:YmZlY2Vi/vertical/1170",
                         "image_path_list": "https://cdn-stage.newsday.com/ace/c:NjgyZGJmY2ItMjI5OC00:YmZlY2Vi/landscape/456",
