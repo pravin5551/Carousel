@@ -1396,7 +1396,7 @@
                             "oat": "Faith Jessie",
                             "downloadable": "false",
                             "preroll": "false",
-                            "loop": "false",
+                            "loop": "true",
                             "brightCoveRefId": "NDTV220919_7pm",
                             "brightCoveAssetId": "6312566249112",
                             "duration": 839440,
